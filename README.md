@@ -8,6 +8,8 @@ Online Multiplayer Game Hub (backend and frontend)
 ## Technologies
 - React
 - Typescript
+- PHP
+- SQLite
 
 ---
 
